@@ -1,6 +1,6 @@
 # hair_beauty
 
-A new Flutter application.
+A Flutter project to help my sweet heart LEV. With my all my love. JQT.
 
 ## Getting Started
 
